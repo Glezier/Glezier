@@ -1,6 +1,6 @@
 Oi, sou Glezier Montalvane!
 
-Estudante da Universidade Federal do Maranhão - UFMA
+Estudante da Universidade Federal do Maranhão - UFMA.
 Atualmente estou cursando Ciência da computação, com previsão para conclusão ao final de 2027.
 
 Tenho muito interesse pela área de banco de dados, em especial em a aprender e aplicar SQL, mas, 
